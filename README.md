@@ -7,11 +7,11 @@
 ---
 
 ### 🛠 **About Me**
-- 🎓 **Studying Computer Science** at College of DuPage  
-- 💡 Passionate about **software development, automation, and database optimization**  
-- 🔥 Currently learning **Java, Python, Rust, and C++**  
-- 🎮 Gamer at heart—love **Zelda, Bethesda, and Nintendo games!**  
-- 📌 Open to **collaborations, networking, and new opportunities**  
+- **Studying Computer Science** at College of DuPage  
+- Passionate about **software development, automation, and database optimization**  
+- Currently learning **Java, Python, Rust, and C++**  
+- Gamer at heart—love **Zelda, Bethesda, and Nintendo games!**  
+- Open to **collaborations, networking, and new opportunities**  
 
 ---
 
@@ -22,18 +22,10 @@
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=github-dark-blue" height="150" />
-</p>
-
----
-
 ### 🌎 **Find Me Here**  
-- 📫 Email: **benjaminMKasper@proton.me**  
-- 💼 LinkedIn: **https://www.linkedin.com/in/benjamin-kasper/**
+- Email: **benjaminMKasper@proton.me**  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-kasper/)
   
 ---
 
-*Thanks for visiting! Let's connect and create something amazing together.* 🚀
+*Thanks for visiting! Let's connect and create something amazing together.* 
